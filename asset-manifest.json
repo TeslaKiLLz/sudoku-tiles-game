@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/TeslaKiLLz/sudoku-tiles-game.git/static/css/main.f6bb58f6.css",
-    "main.js": "/TeslaKiLLz/sudoku-tiles-game.git/static/js/main.fe84e72a.js",
-    "index.html": "/TeslaKiLLz/sudoku-tiles-game.git/index.html",
-    "main.f6bb58f6.css.map": "/TeslaKiLLz/sudoku-tiles-game.git/static/css/main.f6bb58f6.css.map",
-    "main.fe84e72a.js.map": "/TeslaKiLLz/sudoku-tiles-game.git/static/js/main.fe84e72a.js.map"
+    "main.css": "/sudoku-tiles-game/static/css/main.f6bb58f6.css",
+    "main.js": "/sudoku-tiles-game/static/js/main.fe84e72a.js",
+    "index.html": "/sudoku-tiles-game/index.html",
+    "main.f6bb58f6.css.map": "/sudoku-tiles-game/static/css/main.f6bb58f6.css.map",
+    "main.fe84e72a.js.map": "/sudoku-tiles-game/static/js/main.fe84e72a.js.map"
   },
   "entrypoints": [
     "static/css/main.f6bb58f6.css",
