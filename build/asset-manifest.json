@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sudoku-tiles-game/static/css/main.f6bb58f6.css",
-    "main.js": "/sudoku-tiles-game/static/js/main.fe84e72a.js",
+    "main.css": "/sudoku-tiles-game/static/css/main.4d5af22c.css",
+    "main.js": "/sudoku-tiles-game/static/js/main.2fb75f42.js",
     "index.html": "/sudoku-tiles-game/index.html",
-    "main.f6bb58f6.css.map": "/sudoku-tiles-game/static/css/main.f6bb58f6.css.map",
-    "main.fe84e72a.js.map": "/sudoku-tiles-game/static/js/main.fe84e72a.js.map"
+    "main.4d5af22c.css.map": "/sudoku-tiles-game/static/css/main.4d5af22c.css.map",
+    "main.2fb75f42.js.map": "/sudoku-tiles-game/static/js/main.2fb75f42.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6bb58f6.css",
-    "static/js/main.fe84e72a.js"
+    "static/css/main.4d5af22c.css",
+    "static/js/main.2fb75f42.js"
   ]
 }
